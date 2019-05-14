@@ -1,0 +1,3 @@
+Hello team, 
+
+this the test file created to work on merge conflicts.
