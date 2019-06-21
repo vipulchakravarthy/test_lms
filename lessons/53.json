@@ -1,0 +1,446 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Files & File Systems", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-files-&-file-systems.mp4"
+      }
+    ], 
+    "activity_name": "Video on Files & File Systems", 
+    "id": 818, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Compression", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-compression.mp4"
+      }
+    ], 
+    "activity_name": "Video on Compression", 
+    "id": 812, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Keyboards & Command Line Interfaces", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-keyboards-&-command-line-interfaces.mp4"
+      }
+    ], 
+    "activity_name": "Video on Keyboards & Command Line Interfaces", 
+    "id": 800, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Screens & 2D Graphics", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-screens-&-2d-graphics.mp4"
+      }
+    ], 
+    "activity_name": "Video on Screens & 2D Graphics", 
+    "id": 798, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "The Cold War and Consumerism", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-the-cold-war-and-consumerism.mp4"
+      }
+    ], 
+    "activity_name": "Video on The Cold War and Consumerism", 
+    "id": 814, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "01123", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0112358132134", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : -5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :  5.5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%205/attachments/Pseudocode-1.txt"
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 810, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "20", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :  100", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: -10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "20", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: -100", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: 5", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%205/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 808, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "1 2 \"Hello\" 4 \"World\" \"Hello\" 7 8 \"Hello\" \"World\"", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1 2 \"Hello\" 4 \"World\" \"Hello\" 7 8 \"Hello\" \"World\" 11 \"Hello\" 13 14 \"Hello World\"", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 15", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "1 2", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 2", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : 0", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "\"enter only positive numbers\"", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : -50", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%205/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 816, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "[3,2,1]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [1,2,3]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[7,7,0,0]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [0,0,7,7]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[4,-3,2,-1,0]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :[0,-1,2,-3,4]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : []", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[5,5,5,5,5,5,5,5,5,5,5]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [5,5,5,5,5,5,5,5,5,5,5]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%205/attachments/Pseudocode-4.txt"
+          }
+        ], 
+        "title": "Pseudocode-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 806, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "[3,1,2]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [1,2,3]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[5,5,5]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [5,5,5]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[7,0,0]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [0,0,7]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[4,-5,1]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input : [-5,1,4]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "[-5,0,-8]", 
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input :  [0,-8,-5]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%205/attachments/Pseudocode-5.txt"
+          }
+        ], 
+        "title": "Pseudocode-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 820, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Palindrome String : Given a String, print \"TRUE\" if it is a palindrome or else print \"FALSE\".Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Palindrome String : Given a String, print \"TRUE\" if it is a palindrome or else print \"FALSE\".Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-6"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 802, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": "Find the nth prime number?Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": "Find the nth prime number?Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-7"
+      }
+    ], 
+    "activity_name": "Assignment-7", 
+    "id": 822, 
+    "module_id": 53
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText": "Find the nth reversible prime number? (The first reversible prime is 11 and the second is 13 and etc). Submit the <b>link of the document</b> below.", 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "questionText": "Find the nth reversible prime number? (The first reversible prime is 11 and the second is 13 and etc).Submit the <b> executable LARP file</b> below", 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Bonus Assignment-1"
+      }
+    ], 
+    "activity_name": "Bonus Assignment-1", 
+    "id": 804, 
+    "module_id": 53
+  }
+]

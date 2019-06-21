@@ -1,0 +1,361 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:  8 13", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: 13 8", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: 10 10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:  12 10", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: 5 21", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/Pseudocode-1.txt"
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 984, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:  Miracle<br>2", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:  Chocolate<br>3", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: abcdefg<br>1", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: BATMAN<br>2", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: Skywalker<br>100", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 983, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: [1, 1, 2, 3, 1]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:[1, 1, 2, 1, 2, 3]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:[1]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: []", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:[1, 2, 3]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:(each blank 1 mark)"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 985, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: Code", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: x", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:man", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input: Kitten", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": 1, 
+            "questionText": "Input:ab", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/Pseudocode-4.txt"
+          }
+        ], 
+        "title": "Pseudocode-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 982, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "Given n, Find the sum of even valued Fibonacci terms for upto n terms(4 marks). Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-1.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "Given n, Find the sum of even valued Fibonacci terms for upto n terms(4 marks). Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-1.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 986, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "Given a string, shuffle or rearrange every alternative character. (5 marks). Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-2.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "Given a string, shuffle or rearrange every alternative character. (5 marks). Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-2.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-6"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 981, 
+    "module_id": 69
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "Given a value n, Find the largest prime factor for n.( 6 marks). Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-3.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "Given a value n, Find the largest prime factor for n.( 6 marks). Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20FINAL%20EXAM/attachments/image-3.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-7"
+      }
+    ], 
+    "activity_name": "Assignment-7", 
+    "id": 987, 
+    "module_id": 69
+  }
+]

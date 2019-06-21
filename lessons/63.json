@@ -1,0 +1,393 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input : 123 ", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input : 100", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "False", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n = 29", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "True", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n = 3 ", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "False", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n =  17", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:  (each blank is of 0.5mark)"
+          }, 
+          {
+            "image": {
+              "imageName": "", 
+              "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-1.PNG"
+            }
+          }
+        ], 
+        "title": "Pseudocode-1"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 922, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "3", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input : 3<br>[1, 2, 3]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "2", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input : 2<br>[1, 1]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "2", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n = 4<br>[1, 1, 1, 1]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "3", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n = 2<br> [1, 2]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "0", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "n = 0<br>[]", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:  (each blank is of 0.5mark)"
+          }, 
+          {
+            "image": {
+              "imageName": "", 
+              "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-2.PNG"
+            }
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 921, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "9", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:3, 3, 9", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "9", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:3, 9, 3", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "answer": "8", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:8, 2, 3", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "-1", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:-3, -1, -2", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "6", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input:5, 6, 2", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:  (each blank is of 0.5mark)"
+          }, 
+          {
+            "image": {
+              "imageName": "", 
+              "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-3.PNG"
+            }
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 923, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "answer": "Hlo", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: Hello", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "HHH", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: HiHiHi", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "Hello", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: Heeololeo", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "p", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: pi", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect."
+          }, 
+          {
+            "answer": "HloKte", 
+            "correct_feedback": "Correct", 
+            "max_marks": 0.5, 
+            "questionText": "Input: Hello Kitten", 
+            "questionType": "fillintheblank", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "quizDescription": [
+          {
+            "text": "Trace the following pseudocode:  (each blank is of 0.5mark)"
+          }, 
+          {
+            "image": {
+              "imageName": "", 
+              "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-4.PNG"
+            }
+          }
+        ], 
+        "title": "Pseudocode-4"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 920, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "Given 2 ints, a and b, print True if one of them is 10 or if their sum is 10 or else print False.(2 marks).Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-5.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "Given 2 ints, a and b, print True if one of them is 10 or if their sum is 10 or else print False.(2 marks).Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-5.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 924, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "For a given word, after every character append \u201c!\u201d and display the final string.(3 marks).Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-6.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "For a given word, after every character append \u201c!\u201d and display the final string.(3 marks).Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-6.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-6"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 919, 
+    "module_id": 63
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "graded": true, 
+            "max_marks": 17, 
+            "questionText": [
+              {
+                "text": "Display the count of  the number of even integers and the sum of the even integers in the given array. (5 marks).Submit the <b>link of the document</b> below."
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-7.PNG"
+                }
+              }
+            ], 
+            "questionType": "fillintheblank"
+          }, 
+          {
+            "graded": true, 
+            "max_marks": 3, 
+            "questionText": [
+              {
+                "text": "Display the count of  the number of even integers and the sum of the even integers in the given array. (5 marks).Submit the <b> executable LARP file</b> below"
+              }, 
+              {
+                "image": {
+                  "imageName": "", 
+                  "imageSRC": "http://iiitdev.msitprogram.net/content/CT/Computational%20thinking%20MID%20EXAM-1/attachments/image-7.PNG"
+                }
+              }
+            ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Assignment-7"
+      }
+    ], 
+    "activity_name": "Assignment-7", 
+    "id": 925, 
+    "module_id": 63
+  }
+]

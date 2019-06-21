@@ -1,0 +1,1084 @@
+[{
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Computer Science Preview",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-computer-science-preview.mp4"
+    }],
+    "activity_name": "Video on Computer Science Preview",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Early Computing",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-early-computing.mp4"
+    }],
+    "activity_name": "Video on Early Computing",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Difference Engine"
+            },
+            {
+              "correct": false,
+              "option": "Addition Engine"
+            },
+            {
+              "correct": false,
+              "option": "Multiplication Engine"
+            },
+            {
+              "correct": false,
+              "option": "Division Engine"
+            }
+          ],
+          "questionText": [{
+            "text": "Charles babbage invented a new complex machine called?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Could be used for more than just one computation"
+            },
+            {
+              "correct": true,
+              "option": "Could be given data and run operations in sequence "
+            },
+            {
+              "correct": true,
+              "option": "Had memory"
+            },
+            {
+              "correct": true,
+              "option": "Had a primitive printer"
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following is correct regarding Analytical engine?"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Integrated circuits"
+            },
+            {
+              "correct": true,
+              "option": "Punch cards"
+            },
+            {
+              "correct": false,
+              "option": "Floppy Discs"
+            },
+            {
+              "correct": false,
+              "option": "Mechanical Relay"
+            }
+          ],
+          "questionText": [{
+            "text": "Herman Hollerith machine uses"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-1"
+    }],
+    "activity_name": "Quiz-1",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Electronic Computing",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-electronic-computing.mp4"
+    }],
+    "activity_name": "Video on Electronic Computing",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Integrated circuits"
+            },
+            {
+              "correct": false,
+              "option": "Punch cards"
+            },
+            {
+              "correct": false,
+              "option": "Floppy Discs"
+            },
+            {
+              "correct": true,
+              "option": "Mechanical Relay"
+            }
+          ],
+          "questionText": [{
+            "text": "Harvard mark 1 electromechanical computer uses"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1 Seconds"
+            },
+            {
+              "correct": false,
+              "option": " 6 Seconds"
+            },
+            {
+              "correct": true,
+              "option": "15 Seconds"
+            },
+            {
+              "correct": false,
+              "option": "1 minute"
+            }
+          ],
+          "questionText": [{
+            "text": "Harvard mark 1 performs division in"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Charles babbage"
+            },
+            {
+              "correct": false,
+              "option": "Herman Hollerith"
+            },
+            {
+              "correct": true,
+              "option": "Grace Hopper"
+            },
+            {
+              "correct": false,
+              "option": "Tommy Flowers"
+            }
+          ],
+          "questionText": [{
+            "text": "The word Bug was first used by"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-2"
+    }],
+    "activity_name": "Quiz-2",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Boolean Logic & Logic Gates",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-boolean-logic-&-logic-gates.mp4"
+    }],
+    "activity_name": "Video on Boolean Logic & Logic Gates",
+    "module_id": 45
+  },
+
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Input1 = False input2 = True"
+            },
+            {
+              "correct": true,
+              "option": "Input1 = True input2 = True"
+            },
+            {
+              "correct": false,
+              "option": "Input1 = True input2 = False"
+            },
+            {
+              "correct": false,
+              "option": "Input1 = False input2 = False"
+            }
+          ],
+          "questionText": [{
+            "text": "In which of the following case the AND gate gives output True"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Input1 = False input2 = True"
+            },
+            {
+              "correct": true,
+              "option": "Input1 = True input2 = True"
+            },
+            {
+              "correct": true,
+              "option": "Input1 = True input2 = False"
+            },
+            {
+              "correct": false,
+              "option": "Input1 = False input2 = False"
+            }
+          ],
+          "questionText": [{
+            "text": "In which of the following case the OR gate gives output True"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Input1 = False input2 = True"
+            },
+            {
+              "correct": false,
+              "option": "Input1 = True input2 = True"
+            },
+            {
+              "correct": true,
+              "option": "Input1 = True input2 = False"
+            },
+            {
+              "correct": false,
+              "option": "Input1 = False input2 = False"
+            }
+          ],
+          "questionText": [{
+            "text": "In which of the following case the XOR gate gives output True"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-3"
+    }],
+    "activity_name": "Quiz-3",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Representing Numbers and Letters with Binary",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-representing-numbers-and-letters-with-binary.mp4"
+    }],
+    "activity_name": "Video on Representing Numbers and Letters with Binary",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "2^12"
+            },
+            {
+              "correct": false,
+              "option": "2^11"
+            },
+            {
+              "correct": true,
+              "option": "2^10"
+            },
+            {
+              "correct": false,
+              "option": "2^9"
+            }
+          ],
+          "questionText": [{
+            "text": "In binary a Kilobyte has how many bytes?"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "128"
+            },
+            {
+              "correct": false,
+              "option": "256"
+            },
+            {
+              "correct": false,
+              "option": "64"
+            },
+            {
+              "correct": false,
+              "option": "512"
+            }
+          ],
+          "questionText": [{
+            "text": "How many different values that the ASCII can represent when it was invented"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-4"
+    }],
+    "activity_name": "Quiz-4",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Hello Manasa!"
+            },
+            {
+              "correct": false,
+              "option": "HelloManasa!"
+            },
+            {
+              "correct": false,
+              "option": "Hello Manasa !"
+            },
+            {
+              "correct": false,
+              "option": "HelloManasa !"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Manasa"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/11.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Hello Deepak!"
+            },
+            {
+              "correct": false,
+              "option": "HelloDeepak!"
+            },
+            {
+              "correct": false,
+              "option": "Hello Deepak !"
+            },
+            {
+              "correct": false,
+              "option": "HelloDeepak !"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Deepak"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/11.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "HelloSiva!"
+            },
+            {
+              "correct": true,
+              "option": "Hello Siva!"
+            },
+            {
+              "correct": false,
+              "option": "Hello Siva !"
+            },
+            {
+              "correct": false,
+              "option": "HelloSiva !"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Siva"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/11.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "HelloBob!"
+            },
+            {
+              "correct": false,
+              "option": "Hello Bob !"
+            },
+            {
+              "correct": true,
+              "option": "Hello Bob!"
+            },
+            {
+              "correct": false,
+              "option": "HelloBob !"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Bob"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/11.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "HelloRehana!"
+            },
+            {
+              "correct": false,
+              "option": "Hello Rehana !"
+            },
+            {
+              "correct": true,
+              "option": "Hello Rehana!"
+            },
+            {
+              "correct": false,
+              "option": "HelloRehana !"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Rehana"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/11.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+
+      "questionText": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/Pseudocode-1.txt"
+        }
+      ],
+      "title": "Pseudocode-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Odd"
+            },
+            {
+              "correct": false,
+              "option": "Even"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 21"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/12.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Odd"
+            },
+            {
+              "correct": true,
+              "option": "Even"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : -144"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/12.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Odd"
+            },
+            {
+              "correct": true,
+              "option": "Even"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 0"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/12.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Odd"
+            },
+            {
+              "correct": false,
+              "option": "Even"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : -1"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/12.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "Input : 1",
+          "options": [{
+              "correct": true,
+              "option": "Odd"
+            },
+            {
+              "correct": false,
+              "option": "Even"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 101010101"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/12.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/Pseudocode-2.txt"
+        }
+      ],
+      "title": "Pseudocode-2"
+    }],
+    "activity_name": "Assignment-2",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "0 5 10 15 20"
+            },
+            {
+              "correct": false,
+              "option": "5 10 15 20"
+            },
+            {
+              "correct": false,
+              "option": "0 5 10 15"
+            },
+            {
+              "correct": false,
+              "option": "5 10 15 20 25"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 5 5"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/13.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "4 8 12 16"
+            },
+            {
+              "correct": false,
+              "option": "0 4 8 12"
+            },
+            {
+              "correct": false,
+              "option": "0 4 8 12 16"
+            },
+            {
+              "correct": true,
+              "option": "4 8 12 16 20"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 4 5"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/13.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "3 6 9 12"
+            },
+            {
+              "correct": true,
+              "option": "0 3 6 9 12"
+            },
+            {
+              "correct": false,
+              "option": "3 6 9 12 15"
+            },
+            {
+              "correct": false,
+              "option": "6 9 12 15"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 3 5"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/13.png"
+              }
+            }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "0 10 20 30"
+            },
+            {
+              "correct": true,
+              "option": "0 10 20 30 40"
+            },
+            {
+              "correct": false,
+              "option": "10 20 30 40"
+            },
+            {
+              "correct": false,
+              "option": "0 10 20 40"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : 10 5"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/13.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "0  -11 -22 -33"
+            },
+            {
+              "correct": false,
+              "option": "-11 -22 -33  -44"
+            },
+            {
+              "correct": true,
+              "option": "0  -11 -22 -33  -44"
+            },
+            {
+              "correct": false,
+              "option": "-11 -22 -33  -44 -55"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : -11 5"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/13.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/Pseudocode-3.txt"
+        }
+      ],
+      "title": "Pseudocode-3"
+    }],
+    "activity_name": "Assignment-3",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "6"
+            },
+            {
+              "correct": false,
+              "option": "7"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": false,
+              "option": "3"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Manasa"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/14.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "6"
+            },
+            {
+              "correct": true,
+              "option": "7"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": false,
+              "option": "3"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Deepak!"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/14.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "6"
+            },
+            {
+              "correct": false,
+              "option": "7"
+            },
+            {
+              "correct": true,
+              "option": "4"
+            },
+            {
+              "correct": false,
+              "option": "3"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : Siva"
+          }, {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/14.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "6"
+            },
+            {
+              "correct": false,
+              "option": "7"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": true,
+              "option": "3"
+            }
+          ],
+          "questionText": [{
+            "text": "Input : bob"
+          },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/14.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }, {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "6"
+            },
+            {
+              "correct": true,
+              "option": "12"
+            },
+            {
+              "correct": false,
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "13"
+            }
+          ],
+          "questionText": [
+            {
+              "text" : "Input : Rehana Madam"
+            },{
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "https://msittemp.herokuapp.com/img/14.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/Pseudocode-4.txt"
+        }
+      ],
+      "title": "Pseudocode-4"
+    }],
+    "activity_name": "Assignment-4",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "Overview : This Assignment helps you to get a better understanding on usage of strings"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-3 in your computational thinking folder, create one more folder named Assignment-1 in Day-3 folder. Upload both document and LARP file in Assignment-1 folder. Submit the Assignment-1 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mentor"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2.3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder."
+          },
+          {
+            "text": "Find the reverse of a given string?Submit the link of the document below."
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Assignment-5"
+    }],
+    "activity_name": "Assignment-5",
+    "module_id": 45
+  },
+  {
+    "activity_json": [{
+      "activityType": "assignment",
+      "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "Overview : This Assignment helps you to get a better understanding on usage of strings"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-3 in your computational thinking folder, create one more folder named Assignment-2 in Day-3 folder. Upload both document and LARP file in Assignment-2 folder. Submit the Assignment-2 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mentor"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2. 3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder."
+          },
+          {
+            "text": "Print the grade based on the percentages given, following is the grading criteria.Submit the link of the document below."
+          },
+          {
+            "attachment": [
+              "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/image-1.PNG"
+            ]
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Assignment-6"
+    }],
+    "activity_name": "Assignment-6",
+    "module_id": 45
+  }
+]

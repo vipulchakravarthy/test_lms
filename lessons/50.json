@@ -1,0 +1,101 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "questionText": [{
+            "text": "please find the instructions below file"
+          },
+          {
+            "attachment": [
+              "https://drive.google.com/file/d/1x168OOgTQ7LoXhQWcleGcSwjf3YZdUcN/view?usp=sharing"
+            ]
+          }
+        ],
+        "questionType": "filesubmission"
+      }],
+      "title": "Instructions"
+    }],
+    "activity_name": "Instructions",
+    "module_id": 50
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 7,
+        "questionText": [{
+            "text": "For a given word, after every character append “!” and display the final string."
+          },
+          {
+            "text": "Sample Input: Deepak"
+          },
+          {
+            "text": "Sample Output: D!e!e!p!a!k!"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Question-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 50
+  },
+ {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 8,
+        "questionText": [{
+            "text": "Display the count of the number of even integers and the sum of the even integers in the given array."
+          },
+          {
+            "text": "Sample Input: 5(Number of elements in array)"
+          },
+          {
+            "text": "[1, 2, 3, 4, 5] (elements of the array)"
+          },
+          {
+            "text": "Sample Output:   2 (Count)"
+          },
+          {
+            "text": "5 (Sum)"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Question-2"
+    }],
+    "activity_name": "Assignment-2",
+    "module_id": 50
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 10,
+        "questionText": [{
+            "text": "Find the average of prime numbers from 1 to N. "
+          },
+          {
+            "text": "Sample Input (N): 3"
+          },
+          {
+            "text": "Sample Output : 3.33 (first 3 prime numbers are 2,3,5)"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Question-3"
+    }],
+    "activity_name": "Assignment-3",
+    "module_id": 50
+  }
+]

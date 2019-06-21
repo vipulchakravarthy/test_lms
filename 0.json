@@ -1,0 +1,261 @@
+[
+  {
+    "activities": [
+      "Introducing How Computers Work",
+      "What Makes a Computer, a Computer",
+      "Binary & Data",
+      "Circuits & Logic",
+      "CPU, Memory, Input & Output",
+      "Hardware and Software",
+      "Blind Game Activity",
+      "Rock-paper-scissors Activity",
+      "Draw Activity",
+      "Puzzle Activity",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Building blocks",
+      "Chits with Roll numbers Activity",
+      "Assignment-5",
+      "Assignment-6",
+      "Assignment-7"
+    ],
+    "desc": null,
+    "id": 41,
+    "name": "Computational Thinking and Building Blocks"
+  },
+  {
+    "activities": [
+      "Video on Flowchart",
+      "Quiz",
+      "Area of a circle",
+      "Eligibility of a person for marriage in India",
+      "Print first N natural numbers",
+      "Show Symbols Activity",
+      "Install LARP",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4"
+    ],
+    "desc": null,
+    "id": 43,
+    "name": "Flow design and Capstone"
+  },
+  {
+    "activities": [
+      "Video on Computer Science Preview",
+      "Video on Early Computing",
+      "Quiz-1",
+      "Video on Electronic Computing",
+      "Quiz-2",
+      "Video on Boolean Logic & Logic Gates",
+      "Quiz-3",
+      "Video on Representing Numbers and Letters with Binary",
+      "Quiz-4",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6"
+    ],
+    "desc": null,
+    "id": 45,
+    "name": "Practice Problems Set-1"
+  },
+  {
+    "activities": [
+      "Video on How Computers Calculate - the ALU",
+      "Quiz-1",
+      "Video on Registers and RAM",
+      "Quiz-2",
+      "Video on The Central Processing Unit (CPU)",
+      "Quiz-3",
+      "Video on Instructions & Programs",
+      "Quiz-4",
+      "Video on Advanced CPU Designs",
+      "Quiz-5",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5"
+    ],
+    "desc": null,
+    "id": 47,
+    "name": "Practice Problems Set - 2"
+  },
+  {
+    "activities": [
+      "Video on Early Programming",
+      "Quiz-1",
+      "Video on The First Programming",
+      "Quiz-2",
+      "Video on Programming Basics,Statements & Functions",
+      "Quiz-3",
+      "Video on Intro to Algorithms",
+      "Quiz-4",
+      "Video on Data Structures",
+      "Quiz-5",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6"
+    ],
+    "desc": null,
+    "id": 49,
+    "name": "Practice Problems Set - 3"
+  },
+  {
+    "activities": [
+      "Instructions",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3"
+    ],
+    "desc": null,
+    "id": 50,
+    "name": "Week Exam-1"
+  },
+  {
+    "activities": [
+      "Video on Alan Turing",
+      "Quiz-1",
+      "Video on Software Engineering",
+      "Quiz-2",
+      "Video on Integrated Circuits & Moores Law",
+      "Quiz-3",
+      "Video on Operating Systems",
+      "Quiz-4",
+      "Video on Memory & Storage",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6",
+      "Bonus Assignment-1",
+      "Bonus Assignment-2"
+    ],
+    "desc": null,
+    "id": 51,
+    "name": "Practice Problems Set - 4"
+  },
+  {
+    "activities": [
+      "Video on The Personal Computer Revolution",
+      "Quiz-1",
+      "Video on Graphical User Interfaces",
+      "Quiz-2",
+      "Video on 3D Graphics",
+      "Quiz-3",
+      "Video on Computer Networks",
+      "Quiz-4",
+      "Video on The Internet",
+      "Quiz-5",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6",
+      "Assignment-7",
+      "Bonus Assignment-1"
+    ],
+    "desc": null,
+    "id": 55,
+    "name": "Practice Problems Set - 5"
+  },
+  {
+    "activities": [
+      "Video on The World Wide Web",
+      "Quiz-1",
+      "Video on Cybersecurity",
+      "Quiz-2",
+      "Video on Hackers & Cyber Attacks",
+      "Quiz-3",
+      "Video on Cryptography",
+      "Quiz-4",
+      "Video on Machine Learning & Artificial Intelligence",
+      "Quiz-5",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6",
+      "Assignment-7",
+      "Assignment-8",
+      "Bonus Assignment-1",
+      "Bonus Assignment-2",
+      "Bonus Assignment-3"
+    ],
+    "desc": null,
+    "id": 57,
+    "name": "Practice Problems Set - 6"
+  },
+  {
+    "activities": [
+      "Video on Computer Vision",
+      "Quiz-1",
+      "Video on Natural Language Processing",
+      "Quiz-2",
+      "Video on Robots",
+      "Quiz-3",
+      "Video on Psychology of Computing",
+      "Video on Educational Technology",
+      "Quiz-4",
+      "Video on The Singularity, Skynet, and the Future of Computing",
+      "Quiz-5",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6",
+      "Assignment-7",
+      "Bonus Assignment-1"
+    ],
+    "desc": null,
+    "id": 59,
+    "name": "Practice Problems Set - 7"
+  },
+  {
+    "activities": [
+      "Video on Files and File Systems",
+      "Quiz-1",
+      "Video on Compression",
+      "Quiz-2",
+      "Video on Keyboards and Command Line Interfaces",
+      "Quiz-3",
+      "Video on Screens and 2D Graphics",
+      "Quiz-4",
+      "Video on The Cold War and Consumerism",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3",
+      "Assignment-4",
+      "Assignment-5",
+      "Assignment-6",
+      "Assignment-7"
+    ],
+    "desc": null,
+    "id": 61,
+    "name": "Practice Problems Set - 8"
+  },
+ {
+    "activities": [
+      "Instructions",
+      "Assignment-1",
+      "Assignment-2",
+      "Assignment-3"
+    ],
+    "desc": null,
+    "id": 62,
+    "name": "Week Exam-2"
+  }
+]

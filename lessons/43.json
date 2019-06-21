@@ -1,0 +1,269 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "What is a Flowchart", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-what-is-a-flowchart-flowchart-symbols-flowchart-types.mp4"
+      }
+    ], 
+    "activity_name": "Video on Flowchart", 
+    "module_id": 43
+  }, 
+
+
+  {
+    "activity_json": [
+      {
+        "activityType": "quiz", 
+        "questions": [
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": "1", 
+            "options": [
+              {
+                "correct": true, 
+                "option": "True"
+              }, 
+              {
+                "correct": false, 
+                "option": "False"
+              }
+            ], 
+            "questionText": [
+              {
+                "text": "A flowchart is a visual representation of the sequence of the steps and decisions needed to perform a process"
+              }
+            ], 
+            "questionType": "mcq", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": "1", 
+            "options": [
+              {
+                "correct": false, 
+                "option": "Rhombus"
+              }, 
+              {
+                "correct": false, 
+                "option": "Rectangle"
+              },
+              {
+                "correct": true, 
+                "option": "Oval"
+              },
+              {
+                "correct": false, 
+                "option": "Triangle"
+              }
+            ], 
+            "questionText": [
+              {
+                "text": "Which symbol is used to start a flowchart"
+              }
+            ], 
+            "questionType": "mcq", 
+            "wrong_feedback": "Incorrect"
+          }, 
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": "1", 
+            "options": [
+              {
+                "correct": true, 
+                "option": "Rhombus"
+              }, 
+              {
+                "correct": false, 
+                "option": "Rectangle"
+              },
+              {
+                "correct": false, 
+                "option": "Oval"
+              },
+              {
+                "correct": false, 
+                "option": "Triangle"
+              }
+            ], 
+            "questionText": [
+              {
+                "text": "Which symbol is used for Decision making in a flowchart"
+              }
+            ], 
+            "questionType": "mcq", 
+            "wrong_feedback": "Incorrect"
+          },
+          {
+            "correct_feedback": "Correct", 
+            "max_marks": "1", 
+            "options": [
+              {
+                "correct": false, 
+                "option": "True"
+              }, 
+              {
+                "correct": true, 
+                "option": "False"
+              }
+            ], 
+            "questionText": [
+              {
+                "text": "Flowcharts can’t represents the dataflow"
+              }
+            ], 
+            "questionType": "mcq", 
+            "wrong_feedback": "Incorrect"
+          }
+        ], 
+        "title": "A flowchart is a visual representation of the sequence of the steps and decisions needed to perform a process"
+      }
+    ],
+    "activity_name": "Quiz",
+    "module_id": 43
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": " This activity helps you to understand how to design a basic flowchart using Assignment or Process symbol",
+        "text": "Deliverable Format: Complete this problem on a piece of paper and show it to your mentor when you are done. Deadline : This task should be completed in the presence of your mentor. Your mentor will inform you the deadline. Score : This problem is for your understanding There is no score for this problem. Draw a flowchart to calculate area of a circle."
+      }
+    ], 
+    "activity_name": "Area of a circle",
+    "module_id": 43
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": "This activity helps you to understand how to design a basic flowchart using Selection symbol and Assignment or Process symbol",
+        "text": "Deliverable Format: Complete this problem on a piece of paper and show it to your mentor when you are done. Deadline : This task should be completed in the presence of your mentor. Your mentor will inform you the deadline. Score : This problem is for your understanding There is no score for this problem. Draw a flowchart for checking given age of a person is eligible for marriage or not in india."
+      }
+    ], 
+    "activity_name": "Eligibility of a person for marriage in India",
+    "module_id": 43
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": "This activity helps you to understand how to design a basic flowchart using Loop symbol",
+        "text": "Deliverable Format: Complete this problem on a piece of paper and show it to your mentor when you are done. Deadline : This task should be completed in the presence of your mentor. Your mentor will inform you the deadline. Score : This problem is for your understanding There is no score for this problem. Draw a flowchart to print first N natural numbers"
+      }
+    ], 
+    "activity_name": "Print first N natural numbers", 
+    "module_id": 43
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": "Let us understand about different symbols used in designing a flowchart.",
+        "text": "Mentor will display a set of statements and students are required to identify which symbol will be used to execute that statement while designing the flowchart"
+      }
+    ], 
+    "activity_name": "Show the symbols Activity", 
+    "module_id": 43
+  }, 
+  {
+    "activity_json": [
+     {
+        "activityType": "notes",
+        "title": "Let us now install a software LARP which helps us to design flowcharts and execute."
+      }
+    ], 
+    "activity_name": "Install LARP", 
+    "module_id": 43
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "max_marks": 5,
+            "graded":true,
+            "questionText":[
+              {
+                "text": "This Assignment helps you to understand how to design a basic flowchart using Selection symbol and Assignment or Process symbol. Deliverable Format: Complete this problem on a piece of paper and take a picture and upload it in the Google drive folder named computational thinking  you created yesterday under Day-2. Follow the naming format as Assignment-1. Deadline :  This task should be completed by the end of 9PM. If any extension of deadline is required contact your mentor. Score : A total of 5 marks will be awarded for this problem if all the steps represented in the respective symbols of those statements. Give a number, check whether it is positive number or negative number?"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Positive or Negative"
+      }
+    ], 
+    "activity_name": "Assignment-1",
+    "module_id": 43
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment",
+         "questions": [
+          {
+            "max_marks": 5,
+            "graded":true,
+            "questionText":[
+              {
+                "text": "This Assignment helps you to understand how to design a basic flowchart using Loop symbol. Deliverable Format: Complete this problem on a piece of paper and take a picture and upload it in the Google drive folder named computational thinking  you created yesterday under Day-2. Follow the naming format as Assignment-2. Deadline :  This task should be completed by the end of 9PM. If any extension of deadline is required contact your mentor. Score : A total of 5 marks will be awarded for this problem if all the steps represented in the respective symbols of those statements. Print first n even numbers?"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": " Printing even numbers"
+      } 
+    ], 
+    "activity_name": "Assignment-2", 
+    "module_id": 43
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "max_marks": 5,
+            "graded":true,
+            "questionText":[
+              {
+                "text": "This Assignment helps you to understand how to design a basic flowchart using Loop symbol, Selection symbol and Assignment or Process symbol. Deliverable Format: Complete this problem on a piece of paper and take a picture and upload it in the Google drive folder named computational thinking  you created yesterday under Day-2. Follow the naming format as Assignment-3. Deadline :  This task should be completed by the end of 9PM. If any extension of deadline is required contact your mentor. Score : A total of 5 marks will be awarded for this problem if all the steps represented in the respective symbols of those statements. Draw a flowchart to find given number is Prime or Not"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Prime or Not"
+      }
+    ], 
+    "activity_name": "Assignment-3",
+    "module_id": 43
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "max_marks": 5,
+            "graded":true,
+            "questionText":[
+              {
+                "text": " This Assignment helps you to understand how to design a basic flowchart using Loop symbol, Selection symbol and Assignment or Process symbol. Deliverable Format: Complete this problem on a piece of paper and take a picture and upload it in the Google drive folder named computational thinking  you created yesterday under Day-2. Follow the naming format as Assignment-4. Deadline :  This task should be completed by the end of 9PM. If any extension of deadline is required contact your mentor. Score : A total of 5 marks will be awarded for this problem if all the steps represented in the respective symbols of those statements. Find the sum of first n Odd numbers?"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Prime Sum"
+      }
+    ], 
+    "activity_name": "Assignment-4",
+    "module_id": 43
+  }
+]

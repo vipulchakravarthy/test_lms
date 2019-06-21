@@ -1,0 +1,1215 @@
+[{
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Early Programming",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-early-programming.mp4"
+    }],
+    "activity_name": "Video on Early Programming",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Charles babbage"
+            },
+            {
+              "correct": true,
+              "option": "Joseph Marie Jacquard"
+            },
+            {
+              "correct": false,
+              "option": "Grace Hopper"
+            },
+            {
+              "correct": false,
+              "option": "Tommy Flowers"
+            }
+          ],
+          "questionText": [{
+            "text": "Punch card was first introduced by"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "ALU"
+            },
+            {
+              "correct": true,
+              "option": "Data Registers"
+            },
+            {
+              "correct": true,
+              "option": "Instruction Register"
+            },
+            {
+              "correct": true,
+              "option": "Instruction Address Register"
+            }
+          ],
+          "questionText": [{
+            "text": "The hallmarks of a Von Neumann computer are a processing unit containing"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "62000"
+            },
+            {
+              "correct": true,
+              "option": "62500"
+            },
+            {
+              "correct": false,
+              "option": "63000"
+            },
+            {
+              "correct": false,
+              "option": "63500"
+            }
+          ],
+          "questionText": [{
+            "text": "Number of punch cards used by the largest program ever punched into punch cards"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-1"
+    }],
+    "activity_name": "Quiz-1",
+    "module_id": 49
+  }, 
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "The First Programming",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-the-first-programming.mp4"
+    }],
+    "activity_name": "Video on The First Programming",
+    "module_id": 49
+  },
+     {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Machine language"
+            },
+            {
+              "correct": false,
+              "option": "System language"
+            },
+            {
+              "correct": false,
+              "option": "Assembler language"
+            },
+            {
+              "correct": false,
+              "option": "Compiler language"
+            }
+          ],
+          "questionText": [{
+            "text": "The language that the computers can understand"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1955"
+            },
+            {
+              "correct": false,
+              "option": "1956"
+            },
+            {
+              "correct": true,
+              "option": "1957"
+            },
+            {
+              "correct": false,
+              "option": "1958"
+            }
+          ],
+          "questionText": [{
+            "text": "FORTRAN was released in the year"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "ALGOL"
+            },
+            {
+              "correct": true,
+              "option": "LISP"
+            },
+            {
+              "correct": true,
+              "option": "Smalltalk"
+            },
+            {
+              "correct": true,
+              "option": "Perl"
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following are programming languages"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-2"
+    }],
+    "activity_name": "Quiz-2",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Programming Basics,Statements & Functions",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-programming-basics-statements-&-functions.mp4"
+    }],
+    "activity_name": "Video on Programming Basics,Statements & Functions",
+    "module_id": 49
+  },
+       {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Decision statement"
+            },
+            {
+              "correct": true,
+              "option": "Assignment statement"
+            },
+            {
+              "correct": false,
+              "option": "Conditional statement"
+            },
+            {
+              "correct": false,
+              "option": "Looping statement"
+            }
+          ],
+          "questionText": [{
+            "text": "A = 5 is a"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "For"
+            },
+            {
+              "correct": true,
+              "option": "While"
+            },
+            {
+              "correct": false,
+              "option": "If"
+            },
+            {
+              "correct": false,
+              "option": "And"
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following are loops"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-3"
+    }],
+    "activity_name": "Quiz-3",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Intro to Algorithms",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-intro-to-algorithms.mp4"
+    }],
+    "activity_name": "Video on Intro to Algorithms",
+    "module_id": 49
+  },
+         {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Krushkals"
+            },
+            {
+              "correct": false,
+              "option": "Binary"
+            },
+            {
+              "correct": false,
+              "option": "Bellman Ford"
+            },
+            {
+              "correct": true,
+              "option": "Merge"
+            }
+          ],
+          "questionText": [{
+            "text": "Which of the following is a sorting algorithm"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "LogN"
+            },
+            {
+              "correct": false,
+              "option": "N"
+            },
+            {
+              "correct": false,
+              "option": "N^2"
+            },
+            {
+              "correct": true,
+              "option": "NLogN"
+            }
+          ],
+          "questionText": [{
+            "text": "BigO computational complexity of merge sort is"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-4"
+    }],
+    "activity_name": "Quiz-4",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "video",
+      "title": "Data Structures",
+      "videoURL": "http://iiitdev.msitprogram.net/videos/ct-data-structures.mp4"
+    }],
+    "activity_name": "Video on Data Structures",
+    "module_id": 49
+  },
+           {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Lists"
+            },
+            {
+              "correct": false,
+              "option": "Trees"
+            },
+            {
+              "correct": false,
+              "option": "Graphs"
+            },
+            {
+              "correct": false,
+              "option": "Tables"
+            }
+          ],
+          "questionText": [{
+            "text": "Arrays can also be called as"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Numbers"
+            },
+            {
+              "correct": true,
+              "option": "Characters"
+            },
+            {
+              "correct": false,
+              "option": "Strings"
+            },
+            {
+              "correct": false,
+              "option": "Variables"
+            }
+          ],
+          "questionText": [{
+            "text": "String is an array of"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "LIFO"
+            },
+            {
+              "correct": false,
+              "option": "FIFO"
+            },
+            {
+              "correct": false,
+              "option": "LILO"
+            },
+            {
+              "correct": false,
+              "option": "None of the above"
+            }
+          ],
+          "questionText": [{
+            "text": "Stacks follows"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-5"
+    }],
+    "activity_name": "Quiz-5",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": true,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: -1, -2, -3"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-4.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": true,
+              "option": "5"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 10, 5, -1"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-4.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "4"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 11, 7, 1, 17"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-4.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "25"
+            },
+            {
+              "correct": true,
+              "option": "5"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 1, 2, 3, 4, 5, 6, 7, 8, 9"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-4.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": true,
+              "option": "25"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 25"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-4.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%203/attachments/Pseudocode-1.txt"
+        }
+      ],
+      "title": "Pseudocode-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": true,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "25"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: -3, -2, -1"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-5.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "25"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: -1, 5, 10"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-5.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": true,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "25"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 1, 7, 11, 17"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-5.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": false,
+              "option": "25"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 1, 2, 3, 4, 5, 6, 7, 8, 9"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-5.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "-2"
+            },
+            {
+              "correct": false,
+              "option": "9"
+            },
+            {
+              "correct": true,
+              "option": "25"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 25"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-5.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%203/attachments/Pseudocode-2.txt"
+        }
+      ],
+      "title": "Pseudocode-2"
+    }],
+    "activity_name": "Assignment-2",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": true,
+              "option": "none"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: -3, -2, -1"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-6.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "11"
+            },
+            {
+              "correct": true,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": false,
+              "option": "none"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: -1, 5, 5, 7, 10"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-6.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": false,
+              "option": "none"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 11, 11, 11, 17, 17, 71"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-6.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": true,
+              "option": "1"
+            },
+            {
+              "correct": false,
+              "option": "none"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 1, 1, 2, 3, 4, 5, 6, 8, 9"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-6.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "11"
+            },
+            {
+              "correct": false,
+              "option": "5"
+            },
+            {
+              "correct": false,
+              "option": "1"
+            },
+            {
+              "correct": true,
+              "option": "n"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: 5"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-6.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+
+      ],
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%203/attachments/Pseudocode-3.txt"
+        }
+      ],
+      "title": "Pseudocode-3"
+    }],
+    "activity_name": "Assignment-3",
+    "module_id": 49
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "woo"
+            },
+            {
+              "correct": true,
+              "option": "Woo"
+            },
+            {
+              "correct": false,
+              "option": "WooH"
+            },
+            {
+              "correct": false,
+              "option": "WooHoo"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: WooHoo"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-7.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Hello There"
+            },
+            {
+              "correct": false,
+              "option": "There"
+            },
+            {
+              "correct": true,
+              "option": "Hello"
+            },
+            {
+              "correct": false,
+              "option": "HelloThere"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: HelloThere"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-7.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "abcd"
+            },
+            {
+              "correct": false,
+              "option": "abcde"
+            },
+            {
+              "correct": false,
+              "option": "ab"
+            },
+            {
+              "correct": true,
+              "option": "abc"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: abcdef"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-7.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "ThisIsComp"
+            },
+            {
+              "correct": false,
+              "option": "ThisIsCompu"
+            },
+            {
+              "correct": false,
+              "option": "ThisIsCom"
+            },
+            {
+              "correct": false,
+              "option": "ThisIsCompuTationalT"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: ThisIsCompuTationalT"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-7.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "I"
+            },
+            {
+              "correct": false,
+              "option": "T"
+            },
+            {
+              "correct": false,
+              "option": "IT"
+            },
+            {
+              "correct": false,
+              "option": "None"
+            }
+          ],
+          "questionText": [{
+              "text": "Input: IT"
+            },
+            {
+              "image": {
+                "imageName": "",
+                "imageSRC": "http://iiitdev.msitprogram.net/images/image-7.png"
+              }
+            }
+          ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+
+      ],
+      "quizDescription": [{
+          "text": "Trace the following problem"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%203/attachments/Pseudocode-4.txt"
+        }
+      ],
+      "title": "Pseudocode-4"
+    }],
+    "activity_name": "Assignment-4",
+    "module_id": 49
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "Overview : This Assignment helps you to get a better understanding on usage of strings"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-4 in your computational thinking folder, create one more folder named Assignment-5 in Day-4 folder. Upload both document and LARP file in Assignment-5 folder. Submit the Assignment-5 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mento"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2. 3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder."
+          },
+          {
+            "text": "Question Description: Segregate the vowels and consonants in a given string?"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Assignment-5"
+    }],
+    "activity_name": "Assignment-5",
+    "module_id": 49
+  },
+ {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "This Assignment helps you to get a better understanding on usage of Loops and conditions"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-4 in your computational thinking folder, create one more folder named Assignment-5 in Day-4 folder. Upload both document and LARP file in Assignment-5 folder. Submit the Assignment-5 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mento"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2. 3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder."
+          },
+          {
+            "text": "Question Description: Multiply two numbers using Ethiopian multiplication method?"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+      "title": "Assignment-6"
+    }],
+    "activity_name": "Assignment-6",
+    "module_id": 49
+  }
+]

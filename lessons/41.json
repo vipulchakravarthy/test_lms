@@ -1,0 +1,294 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Introducing How Computers Work", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-introducing-how-computers-work.mp4"
+      }
+    ], 
+    "activity_name": "Introducing How Computers Work", 
+    "id": 686, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "What Makes a Computer, a Computer", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-what-makes-a-computer-a-computer.mp4"
+      }
+    ], 
+    "activity_name": "What Makes a Computer, a Computer", 
+    "id": 680, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Binary & Data", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-binary-&-data.mp4"
+      }
+    ], 
+    "activity_name": "Binary & Data", 
+    "id": 691, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Circuits & Logic", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-circuits-&-logic.mp4"
+      }
+    ], 
+    "activity_name": "Circuits & Logic", 
+    "id": 676, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "CPU, Memory, Input & Output", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-cpu-memory-input-&-output.mp4"
+      }
+    ], 
+    "activity_name": "CPU, Memory, Input & Output", 
+    "id": 682, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Hardware and Software", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-hardware-and-software.mp4"
+      }
+    ], 
+    "activity_name": "Hardware and Software", 
+    "id": 662, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": "With this game we can understand how a sequence of steps will help us in reaching the target successfully.",
+        "text": "In this activity a student is blindfolded and have the other students direct him/her around the room to reach the target."
+      }
+    ], 
+    "activity_name": "Blind Game Activity", 
+    "id": 660, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes", 
+        "title": "This activity helps you understand how to develop an algorithm. ",
+        "text": "Rock, Paper, Scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand."
+      }
+    ], 
+    "activity_name": "Rock-paper-scissors Activity", 
+    "id": 658, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": " With this game we can understand how a sequence of steps will help us in reaching the target successfully.",
+        "text": "The activity is for the whole class except one to describe a simple picture or series of shapes to the chosen student who will draw the picture on the whiteboard/blackboard without looking at it. That means he/she needs to listen hard to what the other students is instructing them to draw."
+      }
+    ], 
+    "activity_name": "Draw Activity", 
+    "id": 666, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes",
+        "title": "This activity helps you understand how to develop an algorithm.",
+        "text": " In this activity, group of students are required to write a part of the algorithm of the given problem on a sheet. Different groups will write different part of the algorithm. Finally, collect all the sheets and put them in the correct order to solve the problem."
+      }
+    ], 
+    "activity_name": "Puzzle Activity", 
+    "id": 656, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Write an algorithm to calculate the sum of first n natural numbers"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Sum of first n natural numbers"
+      }
+    ], 
+    "activity_name": "Assignment-1", 
+    "id": 678, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "max_marks": 3, 
+            "questionText":[
+              {
+                "text": "Write an algorithm to check whether the given age of a person is eligible for voting or not."
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "checking the age of the person"
+      }
+    ], 
+    "activity_name": "Assignment-2", 
+    "id": 674, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Given N numbers, Write an algorithm to find the greatest"
+            }
+          ],
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Greatest number"
+      }
+    ], 
+    "activity_name": "Assignment-3", 
+    "id": 684, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Write an algorithm to calculate the square of the given number."
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Square of a given number"
+      }
+    ], 
+    "activity_name": "Assignment-4", 
+    "id": 672, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Building blocks", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-programming-basics-statements-&-functions.mp4"
+      }
+    ], 
+    "activity_name": "Building blocks", 
+    "id": 670, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "notes", 
+        "title": "Chits with Roll numbers Activity",
+        "text": " Let us explore this activity to understand the role of decision making in solving a problem."
+      }
+    ], 
+    "activity_name": "Chits with Roll numbers Activity", 
+    "id": 664, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Write an algorithm to display 1-10 numbers"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "1 - 10 numbers"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "id": 688, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Write an algorithm to display all the even numbers below 100"
+            }
+          ],
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Even numbers"
+      }
+    ], 
+    "activity_name": "Assignment-6", 
+    "id": 668, 
+    "module_id": 41
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [
+          {
+            "questionText":[
+              {
+                "text": "Write an algorithm to perform the operations(addition, subtraction, multiplication, division) in calculator. (using Functions)"
+            }
+          ], 
+            "questionType": "filesubmission"
+          }
+        ], 
+        "title": "Calculations using Functions"
+      }
+    ], 
+    "activity_name": "Assignment-7", 
+    "id": 690, 
+    "module_id": 41
+  }
+]

@@ -1,0 +1,971 @@
+[
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "How Computers Calculate - the ALU", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-how-computers-calculate-the-alu.mp4"
+      }
+    ], 
+    "activity_name": "Video on How Computers Calculate - the ALU", 
+    "module_id": 47
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Core Processing Unit"
+            },
+            {
+              "correct": true,
+              "option": "Central Processing Unit"
+            },
+            {
+              "correct": false,
+              "option": "Computer Processing Unit"
+            },
+            {
+              "correct": false,
+              "option": "None of the above"
+            }
+          ],
+          "questionText": [{
+            "text": "CPU means"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Instruction address register"
+            },
+            {
+              "correct": false,
+              "option": "Instruction register"
+            },
+            {
+              "correct": false,
+              "option": "Current instruction register"
+            },
+            {
+              "correct": false,
+              "option": "Current address register"
+            }
+          ],
+          "questionText": [{
+            "text": "Which register stores the memory address of the current instruction"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Register A"
+            },
+            {
+              "correct": true,
+              "option": "Instruction address register"
+            },
+            {
+              "correct": true,
+              "option": "Instruction register"
+            },
+            {
+              "correct": false,
+              "option": "Register B"
+            }
+          ],
+          "questionText": [{
+            "text": "Control Units consists of"
+          }],
+          "questionType": "checkbox",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-1"
+    }],
+    "activity_name": "Quiz-1",
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Registers and RAM", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-registers-and-ram.mp4"
+      }
+    ], 
+    "activity_name": "Video on Registers and RAM", 
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Randomized access memory"
+            },
+            {
+              "correct": false,
+              "option": "Readily available memory"
+            },
+            {
+              "correct": true,
+              "option": "Random access memory"
+            },
+            {
+              "correct": false,
+              "option": "Read all memory"
+            }
+          ],
+          "questionText": [{
+            "text": "RAM means"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Reading"
+            },
+            {
+              "correct": true,
+              "option": "Writing"
+            },
+            {
+              "correct": false,
+              "option": "Storing"
+            },
+            {
+              "correct": false,
+              "option": "Accessing"
+            }
+          ],
+          "questionText": [{
+            "text": "The action of putting data in to memory is called"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "RAM"
+            },
+            {
+              "correct": false,
+              "option": "ROM"
+            },
+            {
+              "correct": false,
+              "option": "Cache"
+            },
+            {
+              "correct": true,
+              "option": "Register"
+            }
+          ],
+          "questionText": [{
+            "text": "A group of operating latches is called"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-2"
+    }],
+    "activity_name": "Quiz-2",
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "The Central Processing Unit (CPU)", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-the-central-processing-unit-(cpu).mp4"
+      }
+    ], 
+    "activity_name": "Video on The Central Processing Unit (CPU)", 
+    "module_id": 47
+  }, 
+    {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "System speed"
+            },
+            {
+              "correct": false,
+              "option": "CPU speed"
+            },
+            {
+              "correct": true,
+              "option": "Clock speed"
+            },
+            {
+              "correct": false,
+              "option": "Computer speed"
+            }
+          ],
+          "questionText": [{
+            "text": "The speed at which a cpu can carry out each step of the fetch - decode - execute cycle is called"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1 cycle per nano second"
+            },
+            {
+              "correct": true,
+              "option": "1 cycle per second"
+            },
+            {
+              "correct": false,
+              "option": "1 cycle per minute"
+            },
+            {
+              "correct": false,
+              "option": "1 cycle per hour"
+            }
+          ],
+          "questionText": [{
+            "text": "1 Hertz means"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-3"
+    }],
+    "activity_name": "Quiz-3",
+    "module_id": 47
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Instructions & Programs", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-instructions-&-programs.mp4"
+      }
+    ], 
+    "activity_name": "Video on Instructions & Programs", 
+    "module_id": 47
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1968"
+            },
+            {
+              "correct": false,
+              "option": "1969"
+            },
+            {
+              "correct": false,
+              "option": "1970"
+            },
+            {
+              "correct": true,
+              "option": "1971"
+            }
+          ],
+          "questionText": [{
+            "text": "Intel 4004 processor released in year"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "44"
+            },
+            {
+              "correct": false,
+              "option": "45"
+            },
+            {
+              "correct": true,
+              "option": "46"
+            },
+            {
+              "correct": false,
+              "option": "47"
+            }
+          ],
+          "questionText": [{
+            "text": "Number of instructions supported by Intel 4004"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-4"
+    }],
+    "activity_name": "Quiz-4",
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "video", 
+        "title": "Advanced CPU Designs", 
+        "videoURL": "http://iiitdev.msitprogram.net/videos/ct-advanced-cpu-designs.mp4"
+      }
+    ], 
+    "activity_name": "Video on Advanced CPU Designs",
+    "module_id": 47
+  },
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "Cache Hit"
+            },
+            {
+              "correct": false,
+              "option": "Cache touch"
+            },
+            {
+              "correct": false,
+              "option": "Cache Miss"
+            },
+            {
+              "correct": false,
+              "option": "Cache catch"
+            }
+          ],
+          "questionText": [{
+            "text": "When data requested in RAM is already stored in cache it’s called"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Cache Hit"
+            },
+            {
+              "correct": false,
+              "option": "Cache touch"
+            },
+            {
+              "correct": true,
+              "option": "Cache Miss"
+            },
+            {
+              "correct": false,
+              "option": "Cache catch"
+            }
+          ],
+          "questionText": [{
+            "text": "When data requested in RAM is not stored in cache it’s called"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "Miss Bit"
+            },
+            {
+              "correct": false,
+              "option": "Flag Bit"
+            },
+            {
+              "correct": true,
+              "option": "Cache Bit"
+            },
+            {
+              "correct": false,
+              "option": "Dirty Bit"
+            }
+          ],
+          "questionText": [{
+            "text": "The flag that represents the miss match of the content in the cache and RAM is"
+          }],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+      "title": "Quiz-5"
+    }],
+    "activity_name": "Quiz-5",
+    "module_id": 47
+  },
+    {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "1995 is not leap year"
+            },
+            {
+              "correct": false,
+              "option": "1995 is a leap year"
+            }
+          ],
+          "questionText": [{
+            "text": "1995"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-1.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "1996 is not leap year"
+            },
+            {
+              "correct": true,
+              "option": "1996 is a leap year"
+            }
+          ],
+          "questionText": [{
+            "text": "1996"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-1.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "2000 is not leap year"
+            },
+            {
+              "correct": true,
+              "option": "2000 is a leap year"
+            }
+          ],
+          "questionText": [{
+            "text": "2000"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-1.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "1900 is not leap year"
+            },
+            {
+              "correct": false,
+              "option": "1900 is a leap year"
+            }
+          ],
+          "questionText": [{
+            "text": "1900"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-1.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "2032 is not leap year"
+            },
+            {
+              "correct": false,
+              "option": "2032 is a leap year"
+            }
+          ],
+          "questionText": [{
+            "text": "2032"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-1.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+
+      "quizDescription": [{
+          "text": "Trace the following code:"
+        },
+        {
+          "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set-1/attachments/Pseudocode-1.txt"
+        }
+      ],
+      "title": "Pseudocode-1"
+    }],
+    "activity_name": "Assignment-1",
+    "module_id": 47
+  },
+    {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "10, 5"
+            },
+            {
+              "correct": false,
+              "option": "5, 10"
+            }
+          ],
+          "questionText": [{
+            "text": "a = 5, b=10"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-2.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "2, 3"
+            },
+            {
+              "correct": true,
+              "option": "3,2"
+            }
+          ],
+          "questionText": [{
+            "text": "a = 2, b=3"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-2.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "6, 1"
+            },
+            {
+              "correct": true,
+              "option": "1, 6"
+            }
+          ],
+          "questionText": [{
+            "text": " a = 6, b=1"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-2.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "5, 4"
+            },
+            {
+              "correct": true,
+              "option": "4, 5"
+            }
+          ],
+          "questionText": [{
+            "text": "a = 5, b=4"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-2.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "9, 3"
+            },
+            {
+              "correct": false,
+              "option": "3, 9"
+            }
+          ],
+          "questionText": [{
+            "text": "a = 3, b=9"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-2.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%202/attachments/Pseudocode-2.txt"
+          }
+        ], 
+        "title": "Pseudocode-2"
+      }
+    ], 
+    "activity_name": "Assignment-2",
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [{
+      "activityType": "quiz",
+      "questions": [{
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": true,
+              "option": "15"
+            },
+            {
+              "correct": false,
+              "option": "32"
+            },
+            {
+              "correct": false,
+              "option": "40"
+            },
+            {
+              "correct": false,
+              "option": "10"
+            }
+          ],
+          "questionText": [{
+            "text": "12345"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-3.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "15"
+            },
+            {
+              "correct": true,
+              "option": "32"
+            },
+            {
+              "correct": false,
+              "option": "40"
+            },
+            {
+              "correct": false,
+              "option": "10"
+            }
+          ],
+          "questionText": [{
+            "text": "92678"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-3.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "15"
+            },
+            {
+              "correct": false,
+              "option": "32"
+            },
+            {
+              "correct": true,
+              "option": "40"
+            },
+            {
+              "correct": false,
+              "option": "10"
+            }
+          ],
+          "questionText": [{
+            "text": "7676473"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-3.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "15"
+            },
+            {
+              "correct": false,
+              "option": "32"
+            },
+            {
+              "correct": true,
+              "option": "40"
+            },
+            {
+              "correct": false,
+              "option": "10"
+            }
+          ],
+          "questionText": [{
+            "text": "5834857"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-3.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        },
+        {
+          "correct_feedback": "Correct",
+          "max_marks": "1",
+          "options": [{
+              "correct": false,
+              "option": "15"
+            },
+            {
+              "correct": false,
+              "option": "32"
+            },
+            {
+              "correct": true,
+              "option": "42"
+            },
+            {
+              "correct": false,
+              "option": "10"
+            }
+          ],
+          "questionText": [{
+            "text": "12431562378"
+          },
+          {
+              "image" : {
+                "imageName" : "",
+                  "imageSRC" : "http://iiitdev.msitprogram.net/images/image-3.png"
+              }
+            }
+        ],
+          "questionType": "mcq",
+          "wrong_feedback": "Incorrect"
+        }
+      ],
+        "quizDescription": [
+          {
+            "text": "Trace the following code:"
+          }, 
+          {
+            "file": "http://iiitdev.msitprogram.net/content/CT/Practice%20Problems%20Set%20-%202/attachments/Pseudocode-3.txt"
+          }
+        ], 
+        "title": "Pseudocode-3"
+      }
+    ], 
+    "activity_name": "Assignment-3",
+    "module_id": 47
+  },
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "Overview : This Assignment helps you to get a better understanding on Loops"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-3 in your computational thinking folder, create one more folder named Assignment-4 in Day-3 folder. Upload both document and LARP file in Assignment-4 folder. Submit the Assignment-4 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mentor"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2.3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder"
+          },
+          {
+            "text": "Question Description: Print all prime numbers below N."
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+        "title": "Assignment-4"
+      }
+    ], 
+    "activity_name": "Assignment-4",
+    "module_id": 47
+  }, 
+  {
+    "activity_json": [
+      {
+        "activityType": "assignment", 
+        "questions": [{
+        "graded": true,
+        "max_marks": 20,
+        "questionText": [{
+            "text": "This Assignment helps you to get a better understanding on usage of strings"
+          },
+          {
+            "text": "Deliverable Format: write Algorithm for the below problem in the document format that was shared by your mentor and Draw a flowchart in the LARP tool. Create a new folder named Day-3 in your computational thinking folder, create one more folder named Assignment-5 in Day-3 folder. Upload both document and LARP file in Assignment-5 folder. Submit the Assignment-5 folder drive link in the submission link given below."
+          },
+          {
+            "text": "Deadline :  This task should be completed by today end of 9PM. If any extension of deadline is required contact your mentor"
+          },
+          {
+            "text": "Score : A total of 20 marks will be awarded for this problem. 17 marks will be awarded for the document. Evaluation rubric for document is shared on Day-2. 3 marks will be awarded for LARP flowchart, if it passes all the test cases mentioned in the folder."
+          },
+          {
+            "text": "Question Description: Display even characters from the given string. Submit the link of the document below"
+          }
+        ],
+        "questionType": "fillintheblank"
+      }],
+        "title": "Assignment-5"
+      }
+    ], 
+    "activity_name": "Assignment-5", 
+    "module_id": 47
+  }
+  
+]
